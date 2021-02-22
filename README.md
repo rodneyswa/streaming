@@ -10,8 +10,8 @@ The camera connects to the laptop over WiFi. It streams to OBS Studio, which com
 3. _On Mac_, install [4K Video Downloader](https://www.4kdownload.com/products/product-videodownloader) to get access to the h.264 hardware video encoder on your laptop. The hardware encoder use much less CPU usage.
 4. Save the background [image file](https://raw.githubusercontent.com/rodneyswa/church-streaming/main/background-box.png) if you want to add captions.
 
-### 2. Camera
-1. Install the [DroidCam OBS app](https://www.dev47apps.com/obs/#app)
+### 2. Phone
+1. Install the [DroidCam OBS app](https://www.dev47apps.com/obs/#app) on your phone
     * Using an Android phone is better because you get the ability to zoom and change other camera settings from your laptop
 2. Purchase the Pro upgrade to remove the screen logo and be able to use the remote control - which allows you to zoom and lighten/darken the video from your laptop.
 
