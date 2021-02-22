@@ -77,4 +77,5 @@ Connect your camera to power with a USB cord, so it doesn't go to sleep. I went 
 ## Stop the Stream
 1. In your browser click on End Stream at the top right
 2. In OBS click Stop Streaming
+3. Delete the completed livestream. Go to Studio > Content > Live and deleted the live stream.
 
