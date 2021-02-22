@@ -1,7 +1,11 @@
 This guide covers setup and streaming using a smartphone as the camera, connected to a laptop, for a higher quality image instead of using the 480p camera installed in the building.
 
-### Description
-The camera connects to the laptop over WiFi. It streams to OBS Studio, which combines the audio from the Mirabox and the video from the camera and outputs the stream to YouTube, Zoom, etc.
+# Overview
+Phone provides the video. 
+Mirabox provides the audio. 
+Laptop uses OBS to put the audio and video together and stream it. 
+
+The phone (aka camera) connects to the streaming laptop over WiFi using the Droidcam app. The video streams to OBS Studio, which combines the audio from the Mirabox and the video from the camera and outputs the stream to YouTube, Zoom, etc.
 
 # Installation
 ### 1. Laptop
