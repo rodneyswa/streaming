@@ -15,7 +15,7 @@ The phone (aka camera) connects to the streaming laptop over WiFi using the Droi
 4. Save the background [image file](https://raw.githubusercontent.com/rodneyswa/church-streaming/main/background-box.png) if you want to add captions.
 
 ### 2. Phone
-1. Install the [DroidCam OBS app](https://www.dev47apps.com/obs/#app) on your phone
+1. Install the [DroidCam OBS app](https://www.dev47apps.com/obs/#app) on your phone. App is available for both Android and iOS.
     * Using an Android phone is better because you get Remote Control
 2. Purchase the Pro upgrade to remove the screen logo and be able to use the Remote Control - which allows you to zoom and lighten/darken the video from your laptop.
 
