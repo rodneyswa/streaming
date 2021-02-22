@@ -63,6 +63,7 @@ The camera connects to the laptop over WiFi. It streams to OBS Studio, which com
             3. Stream key: <Click on Get Stream Key to go to [YouTube.com/live_dashboard](https://YouTube.com/live_dashboard). Copy the '1080p Key' and paste it here
      7. Click OK
 ## Setup for Captions
+Captions are good for helping the ward get to know each other.
 * to be completed...
 
 # Operations
