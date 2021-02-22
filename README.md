@@ -13,7 +13,7 @@ The camera connects to the laptop over WiFi. It streams to OBS Studio, which com
 ## 2. Camera
 1. Install the [DroidCam OBS app] (https://www.dev47apps.com/obs/#app)
     * Using an Android phone is better because you get the ability to zoom and change other camera settings from your laptop
-2. Purchase the Pro upgrade to remove the screen logo and be able to user the remote controls
+2. Purchase the Pro upgrade to remove the screen logo and be able to use the remote controls
 
 # Setup
 1. Plug in your laptop to the ethernet cable
