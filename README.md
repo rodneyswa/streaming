@@ -68,6 +68,7 @@ Captions are good for helping the ward get to know each other.
 
 # Operations
 Mount your phone in the microphone stand which has the phone holder/clamp on it. The top edge is spring loaded. Just pull up and insert camera.
+Connect your camera to power with a USB cord, so it doesn't go to sleep. I went in to Developer Options and set Stay Awake.
 
 ## Start the Stream
 1. Go to [YouTube.com/live_dashboard](https://YouTube.com/live_dashboard) in your browser
