@@ -66,9 +66,30 @@ The phone (aka camera) connects to the streaming laptop over WiFi using the Droi
             2. Server: Primary YouTube ingest server
             3. Stream key: <Click on Get Stream Key to go to [YouTube.com/live_dashboard](https://YouTube.com/live_dashboard). Copy the '1080p Key' and paste it here>
      7. Click OK
-## Setup for Captions
-Captions are good for helping the ward get to know each other.
-* to be completed...
+## Setup for Titles
+Titles, or captions help the ward get to know each other.
+This section creates another 'Scene' which overlays titles on the previous scene's audio an video feed.
+1. Create another Scene by selecting the '+' at the bottom ofthe Scenes pane. Name it 'Scene+Title'
+2. Select the new Scene.
+3. In Sources, click '+' and select Scene. Select "Add Existing' to add your previous 'Scene' to this scene.
+4. In Sources, click '+' and add an Image. Select the downloaded [background-box.png](https://raw.githubusercontent.com/rodneyswa/church-streaming/main/background-box.png) image. Rename it 'Background'
+5. In Sources, click '+', add a 'Text (FreeType 2)'
+    1. Select a font and size - Helvetica (size 48) or Myriad Pro (size 64). Click OK
+    2. Type some text such as 'Bishop Bill Hatch' with 'Bishop' on the second line
+    3. Scroll down and select checkbox Drop Shadow. Hit OK
+    4. Rename it to just 'Text'
+6. Make sure your Sources are in this order:
+    1. Text
+    2. Background
+    3. Scene
+7. Adjust location in the window by selecting Text and Background and moving them to the lower left. The Background image should extend 60% across the screen. Text should be indented a little from the left side and a little from the bottom
+8. In the Scene Transitions pane, set Duration to 800 ms
+### How to use
+1. Click on Studio Mode. The right 'Program' view is what you are streaming. The left is a Preview. Clicking Transition at the top center switches the two.
+2. Rule: Never edit a title while you are streaming titles, because everyone will see you type each character. Instead: 
+    1. Transition to the scene without titles
+    2. Select the Title scene and Text source. Click Properties and edit the title (I put all Name and titles in a text file ahead of time so I can just copy-paste)
+    3. Press Transition to switch to streaming the new title
 
 # Operations
 Mount your phone in the microphone stand which has the phone holder/clamp on it. The top edge is spring loaded. Just pull up and insert camera.
