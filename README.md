@@ -97,7 +97,8 @@ Connect your camera to power with a USB cord, so it doesn't go to sleep. I went 
 
 ## Start the Stream
 1. Go to [YouTube.com/live_dashboard](https://YouTube.com/live_dashboard) in your browser
-2. In OBS click Start Streaming
+2. Select Normal Latency at the bottom
+3. In OBS click Start Streaming
 
 ## Stop the Stream
 1. In your browser click on End Stream at the top right
