@@ -25,11 +25,14 @@ The phone (aka camera) connects to the streaming laptop over WiFi using the Droi
     * _On Mac:_
         * Go to System Preferences
         * Select Sharing
-        * Select Internet Sharing, and in "To computers using:" select Wi-Fi
+        * Select Internet Sharing from the service menu on the left. 
+        * In the 'Share your connection from' dropdown, select Ethernet/LAN or USB if you use USB to Ethernet adaptor.
+        * In the 'To computers using' menu, select Wi-Fi
         * Set the Wi-Fi Options
             * Strongly prefer using a 5Ghz channel (above 11)
             * Set a password
         * Click the Internet Sharing checkbox to turn it on. If this is the first time and it does not actually turn on, unset the checkbox and reboot your laptop. Then go back and click checkbox to "On" and it should turn on.
+        * 
     * _On Windows:_
         * ?
 3. Connect your phone to your laptop's WiFi. Using this WiFi results in lower latency, because the stream goes direct to the laptop instead of an access point which then relays the stream to the laptop. Or worse, over WiFi twice.
