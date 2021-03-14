@@ -10,7 +10,7 @@ The phone (aka camera) connects to the streaming laptop over WiFi using the Droi
 # Installation
 ### 1. Laptop
 1. Install [OBS Studio](https://obsproject.com/)
-2. Install the [Droidcam OBS Plugin](https://www.dev47apps.com/obs/#plugin) NOTE! This is not the same as the DroidCam app. You need to install both. 
+2. Install the [Droidcam OBS Plugin](https://www.dev47apps.com/obs/#plugin) NOTE! This is not the same as the DroidCam OBS app. You need to install both. 
 3. _On Mac_, install [4K Video Downloader](https://www.4kdownload.com/products/product-videodownloader) to get access to the h.264 hardware video encoder on your laptop. The hardware encoder use much less CPU usage.
 4. Save the background [image file](https://raw.githubusercontent.com/rodneyswa/church-streaming/main/background-box.png) if you want to add captions.
 
