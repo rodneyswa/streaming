@@ -108,3 +108,11 @@ Connect your camera to power with a USB cord, so it doesn't go to sleep. I went 
 2. In OBS click Stop Streaming
 3. Delete the completed livestream. Go to Studio > Content > Live and delete the live stream.
 
+# Section 2 - Using with Zoom
+Hook up the OBS output to Zoom, and feed audio from Zoom into OBS. We use a virtual camera to send the OBS video output to Zoom, and the VB-Cables to send audio to and from Zoom. See https://streamgeeks.us/updated-how-to-connect-obs-and-zoom/ for a general description.
+1. Install [VB-Cable A&B](https://shop.vb-audio.com/en/mac-apps/30-vb-cable-ab-mac.html)
+2. Run OBS Studio and click Start Virtual Camera. When run the first time it will prompt to install. Install the OBS Virtual Camera.
+## Zoom Configuration
+Setup Zoom:
+1. Select OBS Virtual Camera as the camera
+2. Select VB-Cable A as the microphone
