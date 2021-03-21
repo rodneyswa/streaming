@@ -116,9 +116,14 @@ Hook up the OBS output to Zoom, and feed audio from Zoom into OBS. We use a virt
 Zoom Setup:
 1. Select OBS Virtual Camera as the camera
 2. Select VB-Cable A as the microphone
+3. Select VB-Cable B as the speaker
 OBS setup:
 1. Scene brings in audio from VB-Cable B
 2. Video from Window capture of window "Zoom webinar"
 Audio routing:
 1. Bring up the Audio MIDI Setup and configure the Multi-Output Device
-2. 
+2. To send audio to Zoom, enable VB-Cable A as an output
+
+You also want to simultaneously output into the chapel:
+1. Audio output to the external mic (3.5mm jack) which gets wired into the crab box
+2. Video goes out a second monitor. Click in the menu to enable it.
